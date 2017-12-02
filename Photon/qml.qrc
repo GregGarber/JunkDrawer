@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Lights.qml</file>
+        <file>LightsForm.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>ColorLight.qml</file>
+        <file>ColorLightForm.ui.qml</file>
+        <file>Hub.qml</file>
+        <file>HubForm.ui.qml</file>
+        <file>Sensors.qml</file>
+        <file>SensorsForm.ui.qml</file>
+        <file>InfoItem.qml</file>
+        <file>InfoItemForm.ui.qml</file>
+        <file>Groups.qml</file>
+        <file>GroupsForm.qml</file>
+        <file>Effects.qml</file>
+        <file>EffectsForm.ui.qml</file>
+        <file>Light.qml</file>
+        <file>LightForm.ui.qml</file>
+        <file>ColorPicker.qml</file>
+        <file>ColorPickerForm.ui.qml</file>
+    </qresource>
+</RCC>
